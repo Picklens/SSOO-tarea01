@@ -1,6 +1,7 @@
 # SSOO-tarea01
 
-Benjamin Alejandro Leon Gonzalez
+AUTOR: Benjamin Alejandro Leon Gonzalez
+
 benjamin.leong@alumnos.uv.cl
 
 
